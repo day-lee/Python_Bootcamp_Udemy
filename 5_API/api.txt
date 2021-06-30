@@ -1,0 +1,15 @@
+API
+Day32-40
+
+"habit_tracker
+"
+Used Pixela API to create a pixel graph with HTTP header. Put, Delete data using requests module
+"workout_tracker
+"
+Used Nutritionix and Sheety API for calories burned calculator on google sheet
+"birthday_wisher
+"
+Used smtplib module to automatically send a birthday card
+"stock_trading_news_alert
+"
+Used stock price, news, and Twilio APIs to automatically send an stock price alert email
