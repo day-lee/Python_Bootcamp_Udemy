@@ -2,6 +2,6 @@ GUI
 Day27-31
 
 flash_card_app
-Created a learning learning flass card app with Tkinter
+Created a language learning flash card app with Tkinter
 password_manager 
 Used Tkinter to create a Password Manager with search function (with Json file)
