@@ -1,0 +1,24 @@
+Python
+Day1 -15
+"caesar_cipher_program
+"
+Used functions with input, keyword & positional arguments
+"calculator
+"
+Practiced recursive function and setting a flag to prevent from infinite loop
+"coffee_machine
+"
+Recap of python beginner level: while, for, if statements, functions, data types
+"hangman_game
+
+"
+Used for, while, if statements and input function
+"higher_lower_game
+"
+Breakdown the problem for Modular Programming
+"number_guessing_game
+"
+Learned about global and local scope in function
+"secret_auction
+"
+Practiced dictionary data type
