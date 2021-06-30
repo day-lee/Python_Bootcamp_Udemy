@@ -1,0 +1,14 @@
+BS4, Selenium
+Day45-52
+"price_tracker
+"
+Scraped product price from e-commerce(Amazon, SSG.com)
+"automating_job_applications_on _linkedin
+"
+Used Selenium and exception handling to automate job application on LinkedIn
+auto_tinder_swiping_bot
+Used Selenium and exception handling to automate swiping on Tinder
+internet_speed_twitter_complaint_bot 
+Used Selenium and OOP concept to automate internet speed testing and writing complaints on Twitter
+instagram_follower_bot
+Used Selenium and OOP concept to automate following on Instagram
