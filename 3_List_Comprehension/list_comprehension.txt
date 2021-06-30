@@ -1,0 +1,9 @@
+List Comprehension
+Day24-26
+"mail_merge
+"
+Worked with local files and directories
+nato_phonetic_alphabet
+Used List Comprehensions With pandas
+us_states_game
+Read CSV file for data analysis
