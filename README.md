@@ -12,7 +12,7 @@
 #### 1. 파이썬 | Python
 [Coffee Machine Project](https://velog.io/@daylee/TIL-Python-Basics-Day-15): Recap - while, for, if statements, functions, data types
 
-![](https://images.velog.io/images/daylee/post/80d43511-d3c8-4736-80e2-3fb0af006e69/image.png)
+![](https://images.velog.io/images/daylee/post/0c9207d0-2b20-4722-a6cf-547656126d1f/image.png)
 
 #### 2. 객체 지향 프로그래밍 | OOP
 [Damien Hurst's Dots](https://velog.io/@daylee/TIL-Python-Basics-Day-18#turtle-project): Used Turtle Graphics module to practice OOP
@@ -31,6 +31,9 @@
 
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
 [Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder): Used Google Sheety, Kiwi API and OOP concept to find the cheapest flight deal
+
+![](https://images.velog.io/images/daylee/post/9410172d-0a96-4ca1-be3e-d8688875f79d/image.png)
+
 
 #### 6. 웹 스크래핑, 자동화 | BS4 & Selenium
 [Job Applications on Linkedin](https://velog.io/@daylee/TIL-Python-Basics-Day-49-Automating-Job-Applications-on-LinkedIn): Used Selenium and exception handling to automate job application on LinkedIn
