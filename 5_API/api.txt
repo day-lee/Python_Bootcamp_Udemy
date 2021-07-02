@@ -12,5 +12,6 @@ Used smtplib module to automatically send a birthday card
 "stock_trading_news_alert
 "
 Used stock price, news, and Twilio APIs to automatically send an stock price alert email
+
 flight_deal_finder
 "Used Google Sheety, Kiwi API and OOP concept to find the cheapest flight deal
