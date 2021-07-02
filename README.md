@@ -32,7 +32,7 @@
 #### 5. 애플리케이션 프로그래밍 인터페이스 | API
 [Flight Deal Finder](https://velog.io/@daylee/TIL-Python-Basics-Day-39-Capstone-Part-1-Flight-Deal-Finder): 구글 Sheety, Kiwi API를 이용한 최저가 비행기 티켓 파인더 프로그램 | Used Google Sheety, Kiwi API and OOP concept to find the cheapest flight deal
 
-![](https://images.velog.io/images/daylee/post/9410172d-0a96-4ca1-be3e-d8688875f79d/image.png)
+![](https://images.velog.io/images/daylee/post/2e510c36-5747-4382-9915-7e3fe964b2b2/image.png)
 
 
 #### 6. 웹 스크래핑, 자동화 | BS4 & Selenium
