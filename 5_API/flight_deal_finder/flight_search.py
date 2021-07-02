@@ -3,7 +3,7 @@ from pprint import pprint
 from datetime import datetime, timedelta
 
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com/"
-TEQUILA_API_KEY  = '7UrN8am7_R7ZNBQb-kA24zXaMxgHTDdd'#'BOqwdmxWFCBqflG5JMlVXpEsTaCJ1FZG'
+TEQUILA_API_KEY  = '-'
 
 class FlightSearch:
     '''This class is responsible for talking to the Flight Search (tequila-kwi) API.'''
