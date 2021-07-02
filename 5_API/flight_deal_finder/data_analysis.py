@@ -1,0 +1,162 @@
+
+data = {'_results': 0,
+ 'all_airlines': [],
+ 'all_stopover_airports': [],
+ 'connections': [],
+ 'currency': 'KRW',
+ 'currency_rate': 0.000746,
+ 'data': [],
+ 'del': 0,
+ 'fx_rate': 1340.864819,
+ 'ref_tasks': [],
+ 'refresh': [],
+ 'search_id': '788dc1de-a976-4e60-9a23-9fe5695f8ae1',
+ 'search_params': {'flyFrom_type': 'airport',
+                   'seats': {'adults': 1,
+                             'children': 0,
+                             'infants': 0,
+                             'passengers': 1},
+                   'to_type': 'airport'},
+ 'time': 1}
+
+
+
+
+# price search completed for: Frankfurt
+# ---------------------------------------
+data2 = {'_results': 680,
+ 'all_airlines': [],
+ 'all_stopover_airports': [],
+ 'connections': [],
+ 'currency': 'KRW',
+ 'currency_rate': 0.000746,
+ 'data': [{'airlines': ['LH'],
+           'availability': {'seats': None},
+           'baglimit': {'hand_height': 40,
+                        'hand_length': 55,
+                        'hand_weight': 8,
+                        'hand_width': 23,
+                        'hold_dimensions_sum': 158,
+                        'hold_height': 52,
+                        'hold_length': 78,
+                        'hold_weight': 23,
+                        'hold_width': 28},
+           'bags_price': {'1': 156},
+           'booking_token': 'Bjc1lBf4s50sWU273YAd8W1bxi2QlMQRPOfOLEdWtjx1y8p6W8cGzK40R0K8Z56pjalCAsA2RlYFxixeyjSRCqYB_KTwMJ7t9Vn-aH70sG6zDc4bwBTnWq-pwSFhtYwfeas6ZMmFknsItigCGc2oz20jS-4kxJ6d9nmrVKNtIbxhr4t93XHqecrF8W18fvC8v53b-JmgaoUKbbFK2W04UArbfj9ZRGAgJ18Eb_GECuD8Okd_nE5SW-sp2-yuodAmcglATPqz9ZBQWRn_vty5b_1g7uVWErp3uelX8vvZzBbAxTjPwK2s0w_1vwIlemZ6bITtUfOzuGKtOPVn6JRZxYbpcFFbq3S2uswdAAFBPTOYxz0_TEr1_UFkXQpgo4ZBLTWkv5ZfjDKPljkiVH2FgL8bxpQjfOwswdyoBPSuefqgfEB8qODjjknC_KXlVOBGGvCDlH6-N1E4RYOt-WAxLAuxXDVuZcvulsz3P6gN09gGs-SVQkqA-3bJJ7-K9rQmRJTLXCX0ZHNmCPFyx_Qve12cmuz_Ev9by4RJSv9PLbsShJYpyNAhOTd_TcJrBgmPiqKpSDgfJc-ip_Jck6r9Z8QiqgpvdD7ZP_bjhLdbi6xAFvq_WLMSD0eUHGRnm3PMANLMWQwhko5CWCx7UMiS5TLlkbloK_nnSqYTYwE7EfejNw8ARwks08DkVh3z3dNS2zRg2U2y1EPPyNCyd1xg19Ln4kmqBiJ-VNMei9uPdP40blTLFAez0bbpTFnkRG32Lts6sooBvSB0kOTxbvDL0eMpZL7z-pprfTiLdekuLIzjXHgTP49w4Y3Ddi0GwZUcRlejsFlG7lhisWrCYm_6PtoPaqirKoNOWM_R4eA14Fm4QwWOaI_loVP3XPu7Kg63pswzODA9V9sD0NnpY5twZ-il9GaDv9daVdf0LRVtXe2cisrPpPidaQGQxXLxL3FLp',
+           'cityCodeFrom': 'SEL',
+           'cityCodeTo': 'FRA',
+           'cityFrom': 'Seoul',
+           'cityTo': 'Frankfurt',
+           'conversion': {'EUR': 1190, 'KRW': 1594745},
+           'countryFrom': {'code': 'KR', 'name': 'South Korea'},
+           'countryTo': {'code': 'DE', 'name': 'Germany'},
+           'deep_link': 'https://www.kiwi.com/deep?from=ICN&to=FRA&flightsId=0993172949a2000079e20ca6_0%7C1729099349ab0000a5ddee69_0&price=1190&passengers=1&affilid=dayeonleedeal&lang=en&currency=KRW&booking_token=Bjc1lBf4s50sWU273YAd8W1bxi2QlMQRPOfOLEdWtjx1y8p6W8cGzK40R0K8Z56pjalCAsA2RlYFxixeyjSRCqYB_KTwMJ7t9Vn-aH70sG6zDc4bwBTnWq-pwSFhtYwfeas6ZMmFknsItigCGc2oz20jS-4kxJ6d9nmrVKNtIbxhr4t93XHqecrF8W18fvC8v53b-JmgaoUKbbFK2W04UArbfj9ZRGAgJ18Eb_GECuD8Okd_nE5SW-sp2-yuodAmcglATPqz9ZBQWRn_vty5b_1g7uVWErp3uelX8vvZzBbAxTjPwK2s0w_1vwIlemZ6bITtUfOzuGKtOPVn6JRZxYbpcFFbq3S2uswdAAFBPTOYxz0_TEr1_UFkXQpgo4ZBLTWkv5ZfjDKPljkiVH2FgL8bxpQjfOwswdyoBPSuefqgfEB8qODjjknC_KXlVOBGGvCDlH6-N1E4RYOt-WAxLAuxXDVuZcvulsz3P6gN09gGs-SVQkqA-3bJJ7-K9rQmRJTLXCX0ZHNmCPFyx_Qve12cmuz_Ev9by4RJSv9PLbsShJYpyNAhOTd_TcJrBgmPiqKpSDgfJc-ip_Jck6r9Z8QiqgpvdD7ZP_bjhLdbi6xAFvq_WLMSD0eUHGRnm3PMANLMWQwhko5CWCx7UMiS5TLlkbloK_nnSqYTYwE7EfejNw8ARwks08DkVh3z3dNS2zRg2U2y1EPPyNCyd1xg19Ln4kmqBiJ-VNMei9uPdP40blTLFAez0bbpTFnkRG32Lts6sooBvSB0kOTxbvDL0eMpZL7z-pprfTiLdekuLIzjXHgTP49w4Y3Ddi0GwZUcRlejsFlG7lhisWrCYm_6PtoPaqirKoNOWM_R4eA14Fm4QwWOaI_loVP3XPu7Kg63pswzODA9V9sD0NnpY5twZ-il9GaDv9daVdf0LRVtXe2cisrPpPidaQGQxXLxL3FLp',
+           'distance': 8552.53,
+           'duration': {'departure': 40800, 'return': 37200, 'total': 78000},
+           'facilitated_booking_available': True,
+           'flyFrom': 'ICN',
+           'flyTo': 'FRA',
+           'has_airport_change': False,
+           'id': '0993172949a2000079e20ca6_0|1729099349ab0000a5ddee69_0',
+           'local_arrival': '2021-08-11T18:30:00.000Z',
+           'local_departure': '2021-08-11T14:10:00.000Z',
+           'nightsInDest': 9,
+           'pnr_count': 2,
+           'price': 1594745,
+           'quality': 1387.33284,
+           'route': [{'airline': 'LH',
+                      'bags_recheck_required': False,
+                      'cityCodeFrom': 'SEL',
+                      'cityCodeTo': 'FRA',
+                      'cityFrom': 'Seoul',
+                      'cityTo': 'Frankfurt',
+                      'combination_id': '0993172949a2000079e20ca6',
+                      'equipment': None,
+                      'fare_basis': '',
+                      'fare_category': 'M',
+                      'fare_classes': 'K',
+                      'fare_family': '',
+                      'flight_no': 713,
+                      'flyFrom': 'ICN',
+                      'flyTo': 'FRA',
+                      'guarantee': False,
+                      'id': '0993172949a2000079e20ca6_0',
+                      'last_seen': '2021-06-29T18:32:08.000Z',
+                      'local_arrival': '2021-08-11T18:30:00.000Z',
+                      'local_departure': '2021-08-11T14:10:00.000Z',
+                      'operating_carrier': 'LH',
+                      'operating_flight_no': '713',
+                      'refresh_timestamp': '2021-06-29T18:32:08.000Z',
+                      'return': 0,
+                      'utc_arrival': '2021-08-11T16:30:00.000Z',
+                      'utc_departure': '2021-08-11T05:10:00.000Z',
+                      'vehicle_type': 'aircraft'},
+                     {'airline': 'LH',
+                      'bags_recheck_required': False,
+                      'cityCodeFrom': 'FRA',
+                      'cityCodeTo': 'SEL',
+                      'cityFrom': 'Frankfurt',
+                      'cityTo': 'Seoul',
+                      'combination_id': '1729099349ab0000a5ddee69',
+                      'equipment': None,
+                      'fare_basis': '',
+                      'fare_category': 'M',
+                      'fare_classes': 'S',
+                      'fare_family': '',
+                      'flight_no': 712,
+                      'flyFrom': 'FRA',
+                      'flyTo': 'ICN',
+                      'guarantee': False,
+                      'id': '1729099349ab0000a5ddee69_0',
+                      'last_seen': '2021-06-28T22:06:25.000Z',
+                      'local_arrival': '2021-08-21T11:25:00.000Z',
+                      'local_departure': '2021-08-20T18:05:00.000Z',
+                      'operating_carrier': 'LH',
+                      'operating_flight_no': '712',
+                      'refresh_timestamp': '2021-06-28T22:06:25.000Z',
+                      'return': 1,
+                      'utc_arrival': '2021-08-21T02:25:00.000Z',
+                      'utc_departure': '2021-08-20T16:05:00.000Z',
+                      'vehicle_type': 'aircraft'}],
+           'routes': [['ICN', 'FRA'], ['FRA', 'ICN']],
+           'technical_stops': 0,
+           'tracking_pixel': '',
+           'transfers': [],
+           'type_flights': ['deprecated'],
+           'utc_arrival': '2021-08-11T16:30:00.000Z',
+           'utc_departure': '2021-08-11T05:10:00.000Z',
+           'virtual_interlining': True}],
+ 'del': 0,
+ 'fx_rate': 1340.864819,
+ 'ref_tasks': [],
+ 'refresh': [],
+ 'search_id': '77279471-8d07-4696-ad2f-50ba9c68c4e6',
+ 'search_params': {'flyFrom_type': 'airport',
+                   'seats': {'adults': 1,
+                             'children': 0,
+                             'infants': 0,
+                             'passengers': 1},
+                   'to_type': 'airport'},
+ 'time': 1}
+
+
+print("✈")
+
+if data2['_results'] > 0:
+    print(data2['data'][0]['cityCodeFrom'])
+    print(data2['data'][0]['cityCodeTo'])
+    print(data2['data'][0]['cityFrom'])
+    print(data2['data'][0]['cityTo'])
+    print(data2['data'][0]['price'])
+    print(data2['data'][0]['deep_link'])
+
+
+    raw_start_date = data2['data'][0]['route'][0]['local_arrival']
+    raw_return_date = data2['data'][0]['route'][1]['local_arrival']
+    start_date = raw_start_date.split("T")[0]
+    return_date = raw_return_date.split("T")[0]
+    print(start_date)
+    print(return_date)
+    #
+    # print(data2['data'][0]['route'][0]['local_arrival'])
+    # print(data2['data'][0]['route'][1]['local_arrival'])
