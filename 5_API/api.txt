@@ -9,6 +9,7 @@ Used Nutritionix and Sheety API for calories burned calculator on google sheet
 "birthday_wisher
 "
 Used smtplib module to automatically send a birthday card
+
 "stock_trading_news_alert
 "
 Used stock price, news, and Twilio APIs to automatically send an stock price alert email
