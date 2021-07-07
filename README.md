@@ -46,8 +46,9 @@
 
 ![restful_blog](https://user-images.githubusercontent.com/73591588/124733565-46e8bb80-df4f-11eb-8662-8206cd34ee88.gif)
 
-[London Cafe API](https://dayleeand.tistory.com/entry/Flask-app-cafeapi): Flask와 Postman을 이용해 RESTful한 런던 추천 카페 API 설계 | Built a London cafe API with RESTful Routing using Postman
+[London Cafe API](https://github.com/day-lee/Python_Bootcamp_Udemy/tree/main/7_Flask_Web_Development/cafe_api): Flask와 Postman을 이용해 RESTful한 런던 추천 카페 API 설계 | Built a London cafe API with RESTful Routing using Postman
 
+![image](https://user-images.githubusercontent.com/73591588/124761249-9093cf00-df6c-11eb-85b3-03739caef80c.png)
 
 
 🍎 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
