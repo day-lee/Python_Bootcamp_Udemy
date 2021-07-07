@@ -41,7 +41,7 @@
 ![](https://images.velog.io/images/daylee/post/9e81c7cf-073b-4cab-b8aa-c70612cfe0e3/image.png)
 
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
-[eg](eg): explain
+[RESTful Blog](https://dayleeand.tistory.com/entry/Flask-app-RESTful-blog): explain
 
 🍎 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
