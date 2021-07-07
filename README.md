@@ -41,7 +41,11 @@
 ![](https://images.velog.io/images/daylee/post/9e81c7cf-073b-4cab-b8aa-c70612cfe0e3/image.png)
 
 #### 7. 플라스크 웹 프레임워크 | Flask Web Framework
-[RESTful Blog](https://dayleeand.tistory.com/entry/Flask-app-RESTful-blog): explain
+[RESTful Blog](https://dayleeand.tistory.com/entry/Flask-app-RESTful-blog): Flask를 이용해 CURD 기능을 갖춘 블로그 제작 | Created a CRUD operation blog using  Flask, WTForms, Bootstrap, Jinja, SQLite, and SQLAlchemy
+
+
+![restful_blog](https://user-images.githubusercontent.com/73591588/124733565-46e8bb80-df4f-11eb-8662-8206cd34ee88.gif)
+
 
 🍎 [전체 블로그 시리즈 보기 | Full Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
