@@ -1,9 +1,17 @@
 Flask Web Developement
 Day54-68
+
 digital_name_card
 Used static and templates files to create a business card Flask app
+
 coffe_and_wifi
 Created a free wifi available cafes website with Flask, WTForms and CSV file
+
 my_top_10_movies_website
-"Created a simple CRUD movie list website using Flask, WTForms, Bootstrap, SQLite, and SQLAlchemy
-"
+Created a simple CRUD movie list website using Flask, WTForms, Bootstrap, SQLite, and SQLAlchemy
+
+cafe_api
+Built a cafe API with RESTful Routing using Postman
+
+restful_blog
+Created a CRUD operation blog using  Flask, WTForms, Bootstrap, Jinja, SQLite, and SQLAlchemy
