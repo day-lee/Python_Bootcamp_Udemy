@@ -1,4 +1,8 @@
 ## 📚유데미 파이썬 강의 프로젝트 저장소<br> &nbsp; &nbsp; Udemy Python Course Project Repository 
+
+#### 📌 [Full Blog Post Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
+
+
 - **강의 정보 Course Information** <br>
 **[100 Days of Code: The Complete Python Pro Bootcamp for 2021 (by Angela Yu)](https://www.udemy.com/course/100-days-of-code/)**
 
@@ -18,13 +22,13 @@
 2. [London Cafe API](https://github.com/day-lee/Python_Bootcamp_Udemy/tree/main/7_Flask_Web_Development/cafe_api)
 
 
-### 1. RESTful Blog
+### RESTful Blog
 Flask를 이용해 CURD 기능을 갖춘 블로그 제작 <br>
 Created a CRUD operation blog using  Flask, WTForms, Bootstrap, Jinja, SQLite, and SQLAlchemy
 <br><br>
 ![restful_blog](https://user-images.githubusercontent.com/73591588/124733565-46e8bb80-df4f-11eb-8662-8206cd34ee88.gif)
 <br><br>
-### 2. London Cafe API
+### London Cafe API
 Flask와 Postman을 이용해 RESTful한 런던 추천 카페 API 설계 
 <br>Built a London cafe API with RESTful Routing using Postman
 <br><br><br>
@@ -81,7 +85,6 @@ Flask와 Postman을 이용해 RESTful한 런던 추천 카페 API 설계
 
 
 
-#### 📌 [전체 블로그 시리즈 보기 | Full Blog Post Series Availabe at Velog](https://velog.io/@daylee/series/Udemy-Python-Course)
 
 
 
